@@ -1,104 +1,198 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
-        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
-        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0">
+  <!-- Indian English Page (Highest Priority for Indian Market) -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/en-in/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <mobile:mobile/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://clairvoyancemedium.github.io/voyance/en-in/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://clairvoyancemedium.github.io/voyance/hi/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clairvoyancemedium.github.io/voyance/en/" />
+    <xhtml:link rel="alternate" hreflang="ta" href="https://clairvoyancemedium.github.io/voyance/ta/" />
+    <xhtml:link rel="alternate" hreflang="te" href="https://clairvoyancemedium.github.io/voyance/te/" />
+    <xhtml:link rel="alternate" hreflang="kn" href="https://clairvoyancemedium.github.io/voyance/kn/" />
+    <xhtml:link rel="alternate" hreflang="ml" href="https://clairvoyancemedium.github.io/voyance/ml/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://clairvoyancemedium.github.io/voyance/bn/" />
+    <xhtml:link rel="alternate" hreflang="mr" href="https://clairvoyancemedium.github.io/voyance/mr/" />
+    <xhtml:link rel="alternate" hreflang="gu" href="https://clairvoyancemedium.github.io/voyance/gu/" />
+    <xhtml:link rel="alternate" hreflang="pa" href="https://clairvoyancemedium.github.io/voyance/pa/" />
+    <xhtml:link rel="alternate" hreflang="or" href="https://clairvoyancemedium.github.io/voyance/or/" />
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Spiritual Weight Loss Solutions for Indians</image:title>
+      <image:caption>Ayurvedic and psychic slimming techniques for Indian body types</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Master Psychic Slimming - Indian Edition</video:title>
+      <video:description>Discover spiritual weight loss secrets adapted for Indian lifestyle with Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Spirituality</video:category>
+      <video:tag>psychic</video:tag>
+      <video:tag>weight loss</video:tag>
+      <video:tag>Indian diet</video:tag>
+      <video:tag>Ayurveda</video:tag>
+      <video:author>Voyance Minceur India Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Terms-and-Conditions-India.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  
+  <!-- Hindi Page (Second Priority for Indian Market) -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/hi/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>मानसिक वजन घटाने की सेवाएं</image:title>
+      <image:caption>भारतीय शरीर के प्रकार के लिए आध्यात्मिक समाधान</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>मानसिक वजन घटाने में महारत हासिल करें</video:title>
+      <video:description>Voyance Minceur के साथ भारतीय जीवनशैली के लिए अनुकूलित आध्यात्मिक वजन घटाने के रहस्यों को जानें</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>आध्यात्मिकता</video:category>
+      <video:tag>मानसिक</video:tag>
+      <video:tag>वजन घटाना</video:tag>
+      <video:tag>भारतीय आहार</video:tag>
+      <video:author>Voyance Minceur India Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Terms-and-Conditions-India.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
 
-    <!-- 🔥 Page d'accueil (Priorité maximale) -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Comment-retrouver-l-amour-rapidement.github.io/</loc>
-        <lastmod>2025-02-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        <image:image>
-            <image:loc>https://clairvoyancemedium.github.io/images/homepage-main.jpg</image:loc>
-            <image:title>Retrouver l'Amour Rapidement</image:title>
-            <image:caption>Techniques puissantes pour attirer et garder l'amour.</image:caption>
-        </image:image>
-    </url>
+  <!-- Global English Page -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/en/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Psychic Slimming Services</image:title>
+      <image:caption>Spiritual weight loss solutions for global audience</image:caption>
+      <image:geo_location>Global</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Master Psychic Slimming Today</video:title>
+      <video:description>Unlock spiritual weight loss secrets with Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Spirituality</video:category>
+      <video:tag>psychic</video:tag>
+      <video:tag>weight loss</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
 
-    <!-- 🔍 Pages principales -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Comment-retrouver-l-amour-rapidement.github.io/rituels-amour/</loc>
-        <lastmod>2025-02-15</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-        <image:image>
-            <image:loc>https://clairvoyancemedium.github.io/images/rituels-amour.jpg</image:loc>
-            <image:title>Rituels d'Amour Puissants</image:title>
-            <image:caption>Découvrez comment les rituels d’amour peuvent renforcer vos relations.</image:caption>
-        </image:image>
-    </url>
+  <!-- Indian Regional Language Pages -->
+  <!-- Tamil -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/ta/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>மன எடை குறைப்பு சேவைகள்</image:title>
+      <image:caption>ஆன்மீக எடை குறைப்பு தீர்வுகள்</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+  
+  <!-- Telugu -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/te/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>మానసిక బరువు తగ్గింపు సేవలు</image:title>
+      <image:caption>ఆధ్యాత్మిక బరువు తగ్గింపు పరిష్కారాలు</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
 
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Comment-retrouver-l-amour-rapidement.github.io/voyance-email/</loc>
-        <lastmod>2025-02-15</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-        <image:image>
-            <image:loc>https://clairvoyancemedium.github.io/images/voyance-email.jpg</image:loc>
-            <image:title>Voyance par E-mail</image:title>
-            <image:caption>Posez vos questions à un voyant expérimenté par e-mail.</image:caption>
-        </image:image>
-    </url>
+  <!-- Blog Section with India-specific content -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/blog/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/H69KvL6.png</image:loc>
+      <image:title>Spiritual Wellness Blog for Indians</image:title>
+      <image:caption>Articles on psychic slimming and Indian spirituality</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
 
-    <!-- 🎥 Contenu Vidéo (avec ID réel de la vidéo) -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Comment-retrouver-l-amour-rapidement.github.io/videos/comment-seduire-vite/</loc>
-        <lastmod>2025-02-10</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-        <video:video>
-            <video:player_loc>https://www.youtube.com/watch?v=ABCD1234EFG</video:player_loc>
-            <video:thumbnail_loc>https://clairvoyancemedium.github.io/images/video-thumbnail.jpg</video:thumbnail_loc>
-            <video:title>Comment séduire rapidement</video:title>
-            <video:description>Découvrez les meilleures techniques pour séduire efficacement.</video:description>
-        </video:video>
-    </url>
+  <!-- India-specific Press Release -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/blog/india-launch/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <mobile:mobile/>
+    <news:news>
+      <news:publication>
+        <news:name>Voyance Minceur India</news:name>
+        <news:language>en-in</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-27</news:publication_date>
+      <news:title>Psychic Slimming Program Launches in India</news:title>
+      <news:keywords>psychic, weight loss, India, Ayurveda, spiritual</news:keywords>
+      <news:genres>PressRelease</news:genres>
+    </news:news>
+    <image:image>
+      <image:loc>https://i.imgur.com/H69KvL6.png</image:loc>
+      <image:title>India Launch Press Release</image:title>
+      <image:caption>Announcing our spiritual program adapted for Indian audience</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
 
-    <!-- 📰 Articles Google News -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Comment-retrouver-l-amour-rapidement.github.io/news/nouvelle-technique-de-seduction/</loc>
-        <lastmod>2025-02-13</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.9</priority>
-        <news:news>
-            <news:publication>
-                <news:name>Voyance & Amour News</news:name>
-                <news:language>fr</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-13</news:publication_date>
-            <news:title>Nouvelle Technique de Séduction Révélée</news:title>
-            <news:keywords>séduction, amour, relation</news:keywords>
-        </news:news>
-    </url>
-
-    <!-- 📱 Page optimisée pour mobile -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Comment-retrouver-l-amour-rapidement.github.io/mobile/</loc>
-        <lastmod>2025-02-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.9</priority>
-        <mobile:mobile/>
-    </url>
-
-    <!-- 📜 Pages légales -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Comment-retrouver-l-amour-rapidement.github.io/mentions-legales/</loc>
-        <lastmod>2025-01-10</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.5</priority>
-    </url>
-
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Comment-retrouver-l-amour-rapidement.github.io/cgv/</loc>
-        <lastmod>2025-01-10</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.5</priority>
-    </url>
-
+  <!-- India-specific Articles -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/articles/ayurveda-psychic/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/H69KvL6.png</image:loc>
+      <image:title>Combining Ayurveda with Psychic Slimming</image:title>
+      <image:caption>Traditional Indian approaches to spiritual weight loss</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
 </urlset>
