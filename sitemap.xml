@@ -2135,3 +2135,5 @@
     webVitals.getLCP((metric) => console.log('LCP:', metric.value));
 </script>       
     
+</body>
+</html>
